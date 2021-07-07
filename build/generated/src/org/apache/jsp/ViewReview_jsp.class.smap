@@ -1,0 +1,21 @@
+SMAP
+ViewReview_jsp.java
+JSP
+*S JSP
+*F
++ 0 SecurityPage.jsp
+SecurityPage.jsp
++ 1 ViewReview.jsp
+ViewReview.jsp
+*L
+2,14:55
+1#1,2:69
+4,31:72
+34,138:103
+172,3:242
+174,2:245
+176,9:247,3
+185:274
+186:275,3
+187,7:278
+*E
